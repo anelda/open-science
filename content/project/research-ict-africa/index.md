@@ -1,15 +1,15 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "African Open Science Platform (AOSP)" 
-summary: "The Africa Open Science Platform aims to position African scientists at the cutting edge of data intensive science by stimulating interactivity and creating opportunity through the development of efficiencies of scale, building critical mass through shared capacities, and amplifying impact through a commonality of purpose and voice."
+title: "Research ICT Africa (RIA)" 
+summary: "Research ICT Africa (RIA) conducts multidisciplinary research on digital governance, policy and regulation that facilitates evidence-based and informed policy making for improved access, use and application of digital technologies for social and economic development in Africa."
 authors: []
-tags: ["Policy", "Community", "Events"]
+tags: ["Policy"]
 categories: []
 date: 2025-01-22T05:42:12+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://aosp.org.za/"
+external_link: "https://researchictafrica.net/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

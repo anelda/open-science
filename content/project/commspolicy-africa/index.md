@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "CommsPolicy.Africa)" 
+title: "CommsPolicy.Africa" 
 summary: "CommsPolicy.Africa is a site created by Guy Berger, independent expert and consultant in media and internet policy issues. "
 authors: []
 tags: ["Policy", "Research"]

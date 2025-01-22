@@ -2,14 +2,14 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Universities South Africa (USAf)" 
-summary: "Research ICT Africa (RIA) conducts multidisciplinary research on digital governance, policy and regulation that facilitates evidence-based and informed policy making for improved access, use and application of digital technologies for social and economic development in Africa."
+summary: "USAf supports member institutions to become sustainable, financially and socially; to ensure that they are responsive to their immediate contexts, are nationally relevant and internationally competitive. Through its projects and programmes, it enables institutions to identify and respond to national challenges and opportunities for the ultimate benefit of society."
 authors: []
 tags: ["Policy"]
 categories: []
 date: 2025-01-22T05:42:12+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://researchictafrica.net/"
+external_link: "https://usaf.ac.za/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
