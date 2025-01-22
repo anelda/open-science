@@ -7,8 +7,8 @@ event_url: https://rsse.africa/events-rsse-africa/2025-01-23/
 location: 
 
 
-summary: The workshop provided a platform for participants to explore the role of open science in enhancing Africa’s resilience to health and environmental challenges. It also focused on leveraging open science to address One Health issues and improve natural hazards resilience across the continent.
-abstract: 'On 28 November 2024 (Day 3), NASAC, AAST, the African Open Science Platform (AOSP), CODATA, and Periperi-U organized an Open Science workshop side event on “Harnessing Open Science for One Health and Natural Hazards Resilience in Africa: Strengthening Academies of Science and Universities as Leaders in Open Science."'
+summary: Have you ever thought of making your code more useful to yourself and/or others through the use of documentation? Do you want to learn where to start? We'll share some tips and tricks.
+abstract: 'This month we will focus on the motivation for creating documentation for research code, different types of documentation, some small additions that can already make a world of difference to the usability of your code (for yourself and others!) for example, in-code comments and README files. We’ll also look at some more advanced documentation options.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Talarify, "RSSE Africa"]
+authors: ["Talarify", "RSSE Africa"]
 tags: []
 
 # Is this a featured talk? (true/false)
